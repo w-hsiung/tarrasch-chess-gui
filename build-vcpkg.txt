@@ -1,0 +1,13 @@
+Building Tarrash using vcpkg manifest mode
+------------------------------------------
+
+Prepare a blank vcpkg and make VS uses this installation, e.g.
+
+   cd t:\Dev\vcpkg
+   git clone https://github.com/Microsoft/vcpkg.git manifest
+   cd manifest
+   bootstrap-vcpkg.bat -disableMetrics
+   vcpkg.exe integrate install
+
+That's it. The vcpkg.json manifest will take care the rest during
+build.
