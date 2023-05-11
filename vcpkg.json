@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "tarrash",
+  "version-string": "3.13b",
+  "dependencies":
+  [
+    "wxwidgets"
+  ],
+  "builtin-baseline": "512d62f7ee117ccf3176a8acf96a0a6ce7a22dd3",
+  "overrides": [
+    { "name": "wxwidgets", "version": "3.2.2.1#2" }
+  ]
+}
