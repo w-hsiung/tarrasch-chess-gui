@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{853D1FD7-20AB-586C-9699-9680F84AC985}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Tarrasch</ProjectName>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
     <UseOfMfc>false</UseOfMfc>
