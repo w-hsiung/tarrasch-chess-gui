@@ -1,5 +1,5 @@
-Building Tarrash using vcpkg manifest mode
-------------------------------------------
+Building Tarrasch using vcpkg manifest mode
+-------------------------------------------
 
 Prepare a blank vcpkg and make VS uses this installation, e.g.
 

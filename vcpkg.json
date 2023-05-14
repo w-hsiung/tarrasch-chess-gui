@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
-  "name": "tarrash",
+  "name": "tarrasch",
   "version-string": "3.13b",
   "dependencies":
   [
